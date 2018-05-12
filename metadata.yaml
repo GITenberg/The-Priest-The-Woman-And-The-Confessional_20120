@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9093'
     url: http://www.gutenberg.org/2009/agents/9093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20120#The-Priest-The-Woman-And-The-Confessional
 gutenberg_issued: '2006-12-16'
 gutenberg_type: Text
 identifiers:
